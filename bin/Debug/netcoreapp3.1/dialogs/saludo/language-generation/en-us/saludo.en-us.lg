@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# SendActivity_AJ8es0()
+[Activity
+    Text = ${SendActivity_AJ8es0_text()}
+]
+
+# SendActivity_AJ8es0_text()
+- hola, te puedo contar un chiste?
